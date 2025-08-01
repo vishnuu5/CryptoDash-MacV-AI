@@ -2,6 +2,9 @@
 
 A modern, responsive cryptocurrency dashboard built with Next.js, TypeScript, and the CoinGecko API. Track cryptocurrency prices, view detailed charts, and build your personal watchlist.
 
+## DEMO 
+
+Click Here ==>  [See demo](https://crypto-dash-mac-v-ai.vercel.app)
 ## 🚀 Features
 
 ### Core Features
